@@ -839,4 +839,4 @@ A repeatable recipe:
 13. High QPS needs a load balancer and horizontal scaling, data too big for one machine needs sharding, and global static media needs a CDN.
 14. State assumptions, use round numbers, write units, show average and peak, include retention and replication, sanity-check, then tie the numbers to design choices.
 
-**Tomorrow:** send the Day 4 link and I will append its notes below this section.
+**Tomorrow:** send the Day 4 link and I will append its notes below this section. 
