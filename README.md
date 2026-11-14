@@ -5,7 +5,7 @@ A running log of my daily system design learning. Each day's notes are appended 
 
 ---
 
-## Day 1: What is System Design? (Lecture 1)
+## Day 1: What is System Design? (Lecture 1) 
 
 **Source:** Padho with Pratyush, "The Best Course On System Design in 2026" (Lecture 1 of a 30-lecture course)
 
